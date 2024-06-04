@@ -6,7 +6,7 @@ const cld = new Cloudinary({
   }
 });
 
-export const getCloudinaryImage: CloudinaryImage = (publicId: string) => {
+export const getCloudinaryImage = (publicId: string): CloudinaryImage => {
   return cld.image(publicId);
 };
 

@@ -1,4 +1,5 @@
 import type { Config } from 'tailwindcss';
+import tailwindTypo from "@tailwindcss/typography";
 
 export default {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
@@ -9,5 +10,5 @@ export default {
     }
 	},
 
-	plugins: [require('@tailwindcss/typography')]
+	plugins: [tailwindTypo]
 } as Config;
