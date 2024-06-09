@@ -13,7 +13,7 @@
 <div class="flex flex-col">
 	<Icons />
 	<Banner text="John Aldrich Bernardo" image="gh-page/arisu" />
-	<Projects />
 	<About />
+	<Projects />
 	<Connect />
 </div>

@@ -17,7 +17,7 @@
 	<img
 		alt="Arisu Keyboard"
 		src={bannerImage}
-		class="absolute h-[300px] w-[100%] object-none lg:object-cover"
+		class="absolute h-[300px] w-[100%] object-none md:object-cover"
 	/>
 	<h1
 		class="relative flex justify-center self-center p-2 text-6xl text-primary drop-shadow-[0_0_4px_#333]"
