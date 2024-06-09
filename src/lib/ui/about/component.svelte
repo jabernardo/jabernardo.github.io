@@ -19,11 +19,15 @@
 			</div>
 			<div class="flex flex-col p-4">
 				<p class="text-lg text-primary">
-					A lead software developer and a teacher with almost a decade of experience in e-commerce.
-					Checkout my repositories to see my work with different technologies that I'm passionate
-					about.
-					<br /><br />Feel free to fork a repo or reach out if you'd like to collaborate!
+					A lead software developer and a teacher with almost a decade of experience. Checkout my
+					repositories to see my work with different technologies that I'm passionate about.
+					<br /><br />Feel free to fork a repo or reach out if you'd like to collaborate.
+					<br /><br />
 				</p>
+				<a
+					href="https://www.linkedin.com/in/sudoaldrich"
+					class="animate-bounce text-xl text-primary underline">Let's connect!</a
+				>
 			</div>
 		</div>
 	</div>
