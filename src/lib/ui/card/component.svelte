@@ -6,10 +6,10 @@
 
 <a
 	href={link}
-	class="project-card mb-4 mr-4 inline-flex min-h-[218px] max-w-[405px] flex-col break-all border-[12px] border-b-[#adb19b] border-l-[#dce2d4] border-r-[#adb19b] border-t-[#dce2d4] bg-[#edebe5] p-2 pl-2 shadow-[7px_7px_3px_#c9b7b7] transition duration-100 active:shadow-[0_0_4px_#494746] md:min-h-[145px]"
+	class="project-card mb-4 mr-4 inline-flex min-h-[218px] max-w-[405px] flex-col rounded-lg border-[12px] border-t-[6px] border-b-[#adb19b] border-l-[#d2d6cd] border-r-[#caceb8] border-t-[#dce2d4] bg-[#edebe5] p-2 pl-2 shadow-[7px_7px_3px_#c9b7b7] transition duration-100 active:shadow-[0_0_4px_#494746] md:min-h-[145px]"
 >
-	<h3 class="text-2xl text-highlight">{name}</h3>
-	<p class="text-lg">{description}</p>
+	<h3 class="break-all text-2xl text-highlight">{name}</h3>
+	<p class="break-words text-lg">{description}</p>
 </a>
 
 <style>
