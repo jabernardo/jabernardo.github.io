@@ -1,5 +1,30 @@
-<section id="about" class="flex flex-col bg-[#444]">
+<script>
+	import { getCloudinaryImage } from '$lib/utils/cloudinary';
+
+	const me = getCloudinaryImage('portfolio/me-prof_ghmwhg').toURL();
+</script>
+
+<section id="about" class="flex flex-col bg-[#444] pb-4">
 	<div class="flex w-full max-w-7xl flex-col self-center p-2">
-		<h2 class="mb-6 mt-6 text-4xl text-secondary">/About Me</h2>
+		<h2 class="mb-6 mt-6 text-4xl text-secondary">/about me</h2>
+		<div class="flex flex-col md:flex-row">
+			<div class="flex flex-col items-center md:items-start">
+				<img
+					src={me}
+					alt="john aldrich bernardo"
+					class="w-[240px] md:w-[780px]"
+					width="780"
+					height="780"
+				/>
+			</div>
+			<div class="flex flex-col p-4">
+				<p class="text-lg text-primary">
+					Hello World! I'm John Aldrich Bernardo, A lead software developer and a teacher with
+					almost a decade of experience in e-commerce. Checkout my repositories to see my work with
+					different technologies that I'm passionate about.
+					<br /><br />Feel free to fork a repo or reach out if you'd like to collaborate!
+				</p>
+			</div>
+		</div>
 	</div>
 </section>
