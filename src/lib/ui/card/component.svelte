@@ -14,12 +14,12 @@
 
 <style>
 	.project-card {
-		width: calc(50% - 24px);
+		width: calc(100% - 16px);
 	}
 
-	@media screen(xsm) {
+	@media screen(sm) {
 		.project-card {
-			width: calc(100% - 16px);
+			width: calc(50% - 24px);
 		}
 	}
 
