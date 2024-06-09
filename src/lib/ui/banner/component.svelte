@@ -20,7 +20,7 @@
 		class="absolute h-[300px] w-[100%] object-none lg:object-cover"
 	/>
 	<h1
-		class="relative flex justify-center self-center p-2 text-5xl text-primary drop-shadow-[0_0_4px_#333]"
+		class="relative flex justify-center self-center p-2 text-6xl text-primary drop-shadow-[0_0_4px_#333]"
 	>
 		{text}
 	</h1>

@@ -3,7 +3,7 @@
 </script>
 
 <section id="projects" class="flex w-full max-w-7xl flex-col self-center p-2">
-	<h2 class="mb-6 mt-6 text-3xl text-secondary">/Projects</h2>
+	<h2 class="mb-6 mt-6 text-4xl text-secondary">/Projects</h2>
 	<div class="">
 		<Card
 			name="calf"
