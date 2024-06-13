@@ -4,7 +4,7 @@
 
 <section id="projects" class="flex w-full max-w-7xl flex-col self-center p-2">
 	<h2 class="mb-6 mt-6 text-4xl text-secondary">/projects</h2>
-	<div class="">
+	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
 		<Card
 			name="calf"
 			description="Yet another Micro-framework for PHP"
@@ -39,6 +39,12 @@
 			name="TheF"
 			description="Shorthand ?! Press The F!"
 			link="https://github.com/jabernardo/thef"
+		/>
+		<Card
+			name="<<<<"
+			description="See more projects"
+			link="https://github.com/jabernardo"
+			icon="#icon-github"
 		/>
 	</div>
 </section>
