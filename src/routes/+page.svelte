@@ -7,7 +7,11 @@
 </script>
 
 <svelte:head>
-	<title>Hello World! ~ John Aldrich Bernardo</title>
+	<title>John Aldrich Bernardo</title>
+	<meta
+		name="description"
+		content="Welcome to my Github page! I’m John Aldrich Bernardo, a lead software developer and teacher with nearly a decade of experience. Feel free to explore my work, fork repositories, and collaborate on exciting projects. Connect with me professionally on LinkedIn and let's build something amazing together!"
+	/>
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7TK5VMYV3G"></script>
 	<script>
