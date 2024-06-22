@@ -28,7 +28,7 @@
 
 <div class="flex flex-col">
 	<Icons />
-	<Banner text="John Aldrich Bernardo" image="gh-page/arisu" />
+	<Banner image="gh-page/arisu" />
 	<About />
 	<Projects />
 	<Connect />
