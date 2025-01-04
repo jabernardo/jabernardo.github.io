@@ -25,7 +25,7 @@
 					>
 					to see my work with different technologies that I'm passionate about. Don't forget my insights,
 					tutorials, and updates on my latest projects that you could read on my
-					<a href="https://jabernardo.github.io/blog" target="_blank" class="select-none underline"
+					<a href="https://jabernardo.com/blog" target="_blank" class="select-none underline"
 						>blog</a
 					>.
 					<br /><br />Feel free to fork a repo or reach out if you'd like to collaborate.

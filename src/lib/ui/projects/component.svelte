@@ -8,7 +8,7 @@
 		<Card
 			name="calf"
 			description="Yet another Micro-framework for PHP"
-			link="https://jabernardo.github.io/calf/"
+			link="https://jabernardo.com/calf/"
 		/>
 		<Card
 			name="rute"
