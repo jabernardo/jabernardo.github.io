@@ -16,9 +16,9 @@
 			link="https://github.com/jabernardo/rute"
 		/>
 		<Card
-			name="Aargh!"
-			description="Command-line Application Base Template"
-			link="https://github.com/jabernardo/aargh"
+			name="mocket"
+			description="A pocket api mocking tool implemented using Go."
+			link="https://github.com/jabernardo/mocket"
 		/>
 		<Card
 			name="console.php"

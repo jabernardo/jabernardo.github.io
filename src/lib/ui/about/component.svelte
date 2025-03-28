@@ -1,7 +1,8 @@
 <script>
+  import { ResizeSimpleAction } from "@cloudinary/url-gen/actions/resize/ResizeSimpleAction";
 	import { getCloudinaryImage } from '$lib/utils/cloudinary';
 
-	const me = getCloudinaryImage('portfolio/me-prof_ghmwhg').toURL();
+	const me = getCloudinaryImage('portfolio/me-prof_ghmwhg').resize(new ResizeSimpleAction("fill", 248)).toURL();
 </script>
 
 <section id="about" class="mb-8 flex flex-col bg-[#444] pb-4 shadow-[0px_10px_3px_#c9b7b7]">
